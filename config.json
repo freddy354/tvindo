@@ -139,18 +139,11 @@
     {
       "id": 3,
       "category": "Sport",
-      "title": "TLT Server 1",
-      "image": "https://static.wixstatic.com/media/7898a9_40d2e171573c45f6bae3aad4373631d8~mv2.jpg/v1/fit/w_1000%2Ch_756%2Cal_c%2Cq_80,enc_auto/file.jpg",
-      "content": "",
-      "video": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8"
-    },
-    {
-      "id": 4,
-      "category": "Sport",
-      "title": "Astro Cricket",
-      "image": "https://sports.djdvk.com/wp-content/uploads/2023/10/astro-cricket.png",
-      "content": " ",
-      "video": "http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2174.ts"
+      "title": "Rakit karburator",
+      "image": "https://fatek.umsu.ac.id/wp-content/uploads/2023/05/apa-itu-karburator.png",
+      "content": "https://raw.githubusercontent.com/freddy354/tvindo/main/3.html",
+      "video": ""
+
 
     }
   ],
