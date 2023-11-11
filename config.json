@@ -75,7 +75,7 @@
   "categories": [
     {
       "id": 1,
-      "name": "Apps",
+      "name": "News",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/apps.png"
     },
     {
@@ -122,11 +122,11 @@
   "posts": [
     {
       "id": 1,
-      "category": "Tips & Trick",
-      "title": "Cara Membersihkan Karburator Motor",
-      "image": "https://www.suzukicdn.com/uploads/news/SIS-Sept-Blog-7.webp",
-      "content": "https://raw.githubusercontent.com/freddy354/tvindo/main/1.html",
-      "video": ""
+      "category": "News",
+      "title": "Kompas TV",
+      "image": "https://i.ytimg.com/vi/4rmf-lk3ito/maxresdefault.jpg",
+      "content": "",
+      "video": "https://www.youtube.com/watch?v=w7ZTt55F5YE"
     },
     {
       "id": 2,
